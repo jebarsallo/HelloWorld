@@ -1,5 +1,5 @@
 # HelloWorld
-GitHub repository for 'HelloWorld' project.
+GitHub Repository for 'HelloWorld' Project.
 
 Hello, World!
 
